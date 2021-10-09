@@ -1,0 +1,22 @@
+
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: $bg-primary;
+  font-family: $font-family;
+}
+
+
+.container-header{
+  padding: 0  60px 0  60px;
+}
+
+.wrapper-content {
+  max-width: 1312px;
+  margin: auto;
+  padding: 0 16px;
+}
